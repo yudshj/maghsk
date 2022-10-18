@@ -2,7 +2,7 @@
 
 <img align="right" alt="MagHSK's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=maghsk&show_icons=true">
 
-Here is Donald Han.
+Here is Adam.
 
 You can call me MagHSK.
 
